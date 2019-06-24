@@ -96,7 +96,7 @@ body {font-size:16px;}
         ));
       }  
 
-      $sql = "UPDATE managestore SET accountant = '$_POST[accountant]', revenue = '$_POST[revenue]' WHERE storeid = '$_POST[storeid]'";
+      $sql = "UPDATE thanhcloud SET accountant = '$_POST[accountant]', revenue = '$_POST[revenue]' WHERE storeid = '$_POST[storeid]'";
       $stmt = $pdo->prepare($sql);
       if(is_null($_POST[accountant]) == FALSE){
         if($stmt->execute() == TRUE){

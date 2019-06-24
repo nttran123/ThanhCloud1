@@ -72,7 +72,7 @@ body {font-size:16px;}
       ));
     }  
 
-    $sql = "SELECT * FROM managestore ORDER BY storeid";
+    $sql = "SELECT * FROM thanhstore ORDER BY storeid";
     $stmt = $pdo->prepare($sql);
     $stmt->setFetchMode(PDO::FETCH_ASSOC);
     $stmt->execute();

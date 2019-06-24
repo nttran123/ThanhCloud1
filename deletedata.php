@@ -87,7 +87,7 @@ body {font-size:16px;}
         ));
       }  
 
-      $sql = "DELETE FROM managestore WHERE storeid = '$_POST[storeid]'";
+      $sql = "DELETE FROM thanhcloud WHERE storeid = '$_POST[storeid]'";
       $stmt = $pdo->prepare($sql);
       if (is_null($_POST[storeid]) == FALSE){
         if($stmt->execute() == TRUE){

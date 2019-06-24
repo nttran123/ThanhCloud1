@@ -99,7 +99,7 @@ body {font-size:16px;}
         echo "ERROR: Could not connect Database";
       }
 
-      $sql = "INSERT INTO managestore(storeid, accountant, revenue)"
+      $sql = "INSERT INTO thanhcloud(storeid, accountant, revenue)"
       . " VALUES('$_POST[storeid]','$_POST[accountant]','$_POST[revenue]')";
       $stmt = $pdo->prepare($sql);
 
