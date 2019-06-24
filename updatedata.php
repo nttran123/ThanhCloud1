@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- saved from url=(0060)https://www.w3schools.com/w3css/tryw3css_templates_photo.htm -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Insert Data</title>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Update Data</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="image/w3.css">
@@ -38,7 +38,7 @@ img {margin-bottom: -7px}
 <span class="w3-button w3-xxlarge w3-white w3-right" onclick="w3_open()"><i class="fa fa-bars"></i></span> 
 <div class="w3-clear"></div>
 <header class="w3-center w3-margin-bottom">
-  <h1><b>Insert data</b></h1>
+  <h1><b>Update Data</b></h1>
   <br>
   <br>
   <hr style="width:1490px;border:5px solid black" class="w3-round">
@@ -47,7 +47,7 @@ img {margin-bottom: -7px}
 
 <div class="w3-main" style="margin-left:500px;margin-right:500px">
 
-   <!-- Insert -->
+   <!-- Update -->
   <div class="w3-container" id="contact" >
     <h1 class="w3-xxxlarge w3-text-red"></h1>
     
@@ -65,7 +65,7 @@ img {margin-bottom: -7px}
         <label>Revenue</label>
         <input class="w3-input w3-border" type="text" name="revenue" required="">
       </div>
-      <button type="submit" class="w3-button w3-block w3-padding-large w3-black w3-margin-bottom">Insert</button>
+      <button type="submit" class="w3-button w3-block w3-padding-large w3-black w3-margin-bottom">Update</button>
     </form>  
   </div>
 
@@ -110,7 +110,7 @@ img {margin-bottom: -7px}
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
   <i class="fa fa-twitter w3-hover-opacity"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  <p class="w3-medium">Powered by <a href="https://www.facebook.com/profile.php?id=100007840690337" target="_blank" class="w3-hover-text-green">Thanh Tran</a></p>
 </footer>
  
 <script>

@@ -45,14 +45,13 @@ img {margin-bottom: -7px}
 </header>
 </div>
 
-<div class="w3-main" style="margin-left:500px;margin-right:500px">
 <!-- !PAGE CONTENT! -->
 <div class="w3-main" style="margin-left:340px;margin-right:40px">
 
   <!-- Header -->
   <div class="w3-container" style="margin-top:80px" id="showcase">
     <h1 class="w3-jumbo"><b>ATN Toystore</b></h1>  
-    <h1 class="w3-xxxlarge w3-text-red"><b>View Database</b></h1>
+    <h1 class="w3-xxxlarge w3-text-black"><b>View Database</b></h1>
     <hr style="width:50px">
   </div>
   
@@ -124,7 +123,7 @@ img {margin-bottom: -7px}
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
   <i class="fa fa-twitter w3-hover-opacity"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  <p class="w3-medium">Powered by <a href="https://www.facebook.com/profile.php?id=100007840690337" target="_blank" class="w3-hover-text-green">Thanh Tran</a></p>
 </footer>
  
 <script>
