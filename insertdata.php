@@ -92,11 +92,11 @@ img {margin-bottom: -7px}
         echo "ERROR: Could not connect Database";
       }
 
-      $sql = "INSERT INTO thanhcloud(storeid, accountant, revenue)"
-      . " VALUES('$_POST[storeid]','$_POST[accountant]','$_POST[revenue]')";
+      $sql = "INSERT INTO thanhcloud(Storeid, accountant, revenue)"
+      . " VALUES('$_POST[Storeid]','$_POST[accountant]','$_POST[revenue]')";
       $stmt = $pdo->prepare($sql);
 
-        if (is_null($_POST[storeid])) {
+        if (is_null($_POST[Storeid])) {
           echo "Store ID must be not null";
         }
         else{
