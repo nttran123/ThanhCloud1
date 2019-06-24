@@ -46,7 +46,7 @@ img {margin-bottom: -7px}
 </div>
 
 <!-- !PAGE CONTENT! -->
-<div class="w3-main" style="margin-left:340px;margin-right:40px">
+<div class="w3-main" style="margin-left:200px;margin-right:200px">
 
   <!-- Header -->
   <div class="w3-container" style="margin-top:80px" id="showcase">
