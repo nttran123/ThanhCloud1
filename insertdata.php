@@ -104,7 +104,7 @@ img {margin-bottom: -7px}
             echo "Record inserted successfully.";
           }
           else{
-            echo "Something wrong when inserting record. Please insert again!!";
+            echo "Error inserting record. Please insert again!!";
           }
         }
       ?>
