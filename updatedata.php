@@ -87,6 +87,7 @@ img {margin-bottom: -7px}
         ltrim($db["path"], "/")
         ));
       }  
+
       $sql = "UPDATE thanhcloud SET accountant = '$_POST[accountant]', revenue = '$_POST[revenue]' WHERE storeid = '$_POST[storeid]'";
       $stmt = $pdo->prepare($sql);
       if(is_null($_POST[accountant]) == FALSE){
