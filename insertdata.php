@@ -121,7 +121,7 @@ img {margin-bottom: -7px}
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
   <i class="fa fa-twitter w3-hover-opacity"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  <p class="w3-medium">Powered by <a href="https://www.facebook.com/profile.php?id=100007840690337" target="_blank" class="w3-hover-text-green">Thanh Tran</a></p>
 </footer>
  
 <script>
